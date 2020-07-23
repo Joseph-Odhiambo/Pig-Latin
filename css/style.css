@@ -1,0 +1,17 @@
+#wordParameter {
+    color: rgb(249, 244, 255);
+    font-size: 50px;
+}
+body {
+    background-color: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+}
+
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+/* #output {
+    background-color: rgb(127, 185, 72), 0.6;
+} */
